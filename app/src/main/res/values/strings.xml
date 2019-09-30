@@ -1,0 +1,16 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" translatable="false">Just Java</string>
+    <string name="toppings" translatable="false">Toppings</string>
+    <string name="quantity" translatable="false">Quantity<xliff:g id="quantity" example="4"></xliff:g></string>
+    <string name="Whipped_Cream" translatable="false">Whipped Cream</string>
+    <string name="chocolate" translatable="false">Chocolate</string>
+    <string name="price" translatable="false">Price <xliff:g id="price" example="5000"></xliff:g></string>
+    <string name="order" translatable="false">order</string>
+    <string name="add_chocolate" translatable="false">Add Chocolate?</string>
+    <string name="add_whipped_cream" translatable="false">Add Whipped cream?</string>
+    <string name="total" translatable="false">Total</string>
+    <string name="thank_you" translatable="false">Thank You!</string>
+    <string name="name" translatable="false">name <xliff:g id="name" example="ira"></xliff:g></string>
+    <string name="Just_java_order_for" translatable="false">Just java order for</string>
+
+</resources>

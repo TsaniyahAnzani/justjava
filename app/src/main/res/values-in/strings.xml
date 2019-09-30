@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="chocolate" translatable="false">Cokelat </string>
+    <string name="name" translatable="false">Nama </string>
+    <string name="order" translatable="false">Pesan </string>
+    <string name="price" translatable="false">Harga </string>
+    <string name="quantity" translatable="false">Jumlah </string>
+    <string name="thank_you" translatable="false">Terimah Kasih! </string>
+    <string name="total" translatable="false">Total </string>
+    <string name="add_whipped_cream" translatable="false">Tambah krim kocok? </string>
+    <string name="add_chocolate" translatable="false">Tambah Cokelat? </string>
+    <string name="Whipped_Cream" translatable="false">Krim Kocok </string>
+    <string name="toppings" translatable="false">Atasan </string>
+    <string name="Just_java_order_for">hanya java untuk pesanan</string>
+</resources>
